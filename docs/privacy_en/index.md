@@ -4,7 +4,27 @@ We recognize that it is very important to properly protect the personal informat
 
 ## Information Collection and Use
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information.
+### Information Collected
+
+This app uses Apple’s HealthKit to collect users' health data. The following data is collected:
+
+- Calories burned
+
+The collected HealthKit data is used for the following purposes.
+
+### Purpose of Using Collected Information
+
+- To calculate a score based on the amount of exercise
+
+This app does not use the collected data for advertising or marketing purposes.
+
+### Sharing Data with Third Parties
+
+This app does not share users' HealthKit data with third parties.
+
+### User Consent
+
+This app obtains explicit user consent before collecting HealthKit data. Users can stop the collection of HealthKit data at any time through the app's settings.
 
 ## Log Data
 
